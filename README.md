@@ -1,77 +1,44 @@
-# Excel Project: Comprehensive Sales Analysis Reports
-
-This repository contains a series of Excel-based reports designed to provide actionable insights into sales data from 2020 and 2021. Each report leverages advanced Excel features such as Pivot Tables, Filters, and Conditional Formatting to make data exploration and analysis efficient and user-friendly.
-
----
-
-## Reports Overview
-
-### 1. **Report of Divisions**
-   - **Description:** A detailed comparison of net sales in 2020 and 2021, broken down by divisions.
-   - **Key Features:**
-     - Metrics: Net Sales for 2020, 2021, and a comparison of 2020 vs 2021.
-     - Filters:
-       - **Customer**: Filter to analyze data specific to individual customers.
-       - **Region**: Filter to focus on sales in specific regions.
-     - **Default Filter Setting:** All customers and all regions.
-
-### 2. **Top 10 Products Report**
-   - **Description:** Highlights the top 10 products based on sales for 2020 and 2021.
-   - **Key Features:**
-     - Metrics: Sales for 2020, 2021, and a year-over-year comparison (2020 vs 2021).
-     - Filters:
-       - **Region:** Analyze sales by specific regions.
-       - **Market:** Focus on particular markets.
-       - **Division:** Drill down to specific divisions.
-     - **Default Filter Setting:** All regions, markets, and divisions.
-
-### 3. **Top and Bottom Products Report**
-   - **Description:** Displays the top 5 and bottom 5 products based on sales quantity.
-   - **Key Features:**
-     - Metrics: Sum of quantity sold for the top and bottom products.
-     - Filters:
-       - **Region:** View data for specific regions.
-       - **Market:** Analyze sales for targeted markets.
-       - **Division:** Narrow down to specific divisions.
-     - **Default Filter Setting:** All filters are set to include all data.
-
-### 4. **Market Performance Report**
-   - **Description:** Evaluates market performance by comparing sales data across countries with set targets for 2020 and 2021.
-   - **Key Features:**
-     - Metrics: Country-specific sales performance metrics and target comparisons.
-     - Insights into over-performing and under-performing markets.
-
-### 5. **New Products in 2021 Report**
-   - **Description:** Focuses on the performance of products launched in 2021.
-   - **Key Features:**
-     - Metrics: Sales figures for newly introduced products in 2021.
-
-### 6. **Top 5 Countries 2021 Report**
-   - **Description:** Lists the top 5 countries based on total sales in 2021.
-   - **Key Features:**
-     - Metrics: Total sales figures for the top-performing countries.
-
----
-
-## Key Features of the Project
-- **Interactive Filters:** All reports come with dynamic filters for easy customization and deeper analysis.
-- **Pivot Tables:** Efficiently summarize and analyze large datasets.
-- **Year-over-Year Comparisons:** Provides insights into growth and trends over time.
-- **Actionable Insights:** Identify top products, underperforming markets, and new opportunities.
-
----
-
-## How to Use
-1. Clone or download this repository.
-2. Open the desired report in Excel.
-3. Use the filters provided to customize the data view as per your needs.
-4. Analyze the visualized metrics to gain insights into sales performance.
-
----
-
-## Tools Used
-- **Microsoft Excel:** Pivot Tables, Conditional Formatting, Filters.
-- **Data Sources:** Sales data of 2020 2021 2022 .
+## Sales Report :
 
 
+- **Project objective:** 
 
+    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
