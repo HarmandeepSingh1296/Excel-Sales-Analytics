@@ -5,11 +5,11 @@
 
     **1.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/my%20report%20market%20performancec.pdf)_
   
-  **2.**Top 10 Product Report _[Top 10 Products](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/TOP%2010%20PRODUCTS%20REPORT%20SELF.pdf)_
+  **2.** Top 10 Product Report _[Top 10 Products](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/TOP%2010%20PRODUCTS%20REPORT%20SELF.pdf)_
   
-  **3.**Top 5 Countries Sales  _[click here](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/top%205%202021%20sales.pdf)_
+  **3.** Top 5 Countries Sales  _[click here](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/top%205%202021%20sales.pdf)_
   
-    **4.**Top and Bottom Products  _[click here](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/Top%20and%20bottom%20report%20-QTY.pdf)_
+    **4.** Top and Bottom Products  _[click here](https://github.com/HarmandeepSingh1296/Excel-Sales-Analytics/blob/main/Top%20and%20bottom%20report%20-QTY.pdf)_
   
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
